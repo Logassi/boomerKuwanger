@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\executeable03\|D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\executeable03\|D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\executeable02\|D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\executeable\|D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

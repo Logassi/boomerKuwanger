@@ -1,0 +1,25 @@
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.vbprojAssemblyReference.cache
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer_Kuwanger.BoomerKuwanger.resources
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer_Kuwanger.Resources.resources
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.vbproj.GenerateResource.cache
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.vbproj.CoreCompileInputs.cache
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\bin\Debug\Boomer Kuwanger.exe.config
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\bin\Debug\Boomer Kuwanger.exe
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\bin\Debug\Boomer Kuwanger.pdb
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\bin\Debug\Boomer Kuwanger.xml
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.exe
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.xml
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.pdb
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\bin\Debug\Boomer Kuwanger.exe.manifest
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\bin\Debug\Boomer Kuwanger.application
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.exe.manifest
+D:\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.application
+D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.vbproj.AssemblyReference.cache
+D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.vbproj.SuggestedBindingRedirects.cache
+D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer_Kuwanger.BoomerKuwanger.resources
+D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer_Kuwanger.Resources.resources
+D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.vbproj.GenerateResource.cache
+D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.vbproj.CoreCompileInputs.cache
+D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.exe
+D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.xml
+D:\Campus\PresUniv\Sems5\Computer Graphics and Algorithms\Boomer Kuwanger[Final PA]\Boomer Kuwanger\Boomer Kuwanger\obj\Debug\Boomer Kuwanger.pdb
